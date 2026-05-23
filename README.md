@@ -1,4 +1,4 @@
-# yolo-
+# captcha-auto-labeler
 心血来潮写的yolo标注工具，个人认为还是非常好用的，手动标200张左右就可以进行自动标注然后人工复核一下即可
 # captcha-yolo
 
